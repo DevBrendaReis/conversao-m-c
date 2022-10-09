@@ -1,0 +1,10 @@
+print()
+print('****************************************************')
+print('Vamos fazer a conversão de metros para centímetros? ')
+print('****************************************************')
+print()
+metros = float(input('Digite a metragem: '))
+centimetros = metros * 100
+print()
+print('{} metros são {} centímetros'.format(metros, centimetros))
+print()
